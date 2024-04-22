@@ -1,0 +1,106 @@
+@charset "ISO-8859-1";
+.mdiv{
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	background-image: url("https://img.freepik.com/premium-photo/stack-old-book-library_488220-23532.jpg");
+	background-size:100%;
+	height:700px;
+	background-repeat: no-repeat;	
+}
+.img1{
+			width: 75px;
+			height: 75px;
+			border-radius: 100%;
+		}
+.img2{
+			width: 75px;
+			height: 75px;
+			border-radius: 100%;
+}
+		h1{
+			color: white;
+			font-size: 50px;
+			background-color: orange;
+			width: 300px;
+			border-radius: 5px;
+
+		}
+		.sdiv1{
+		margin-top: 100px;
+		}
+		.frm label{
+			color:#BC3C12;
+			font-weight: bolder;
+			font-size: 30px;
+		}
+		.frm input{
+		    
+			font-size: 20px;
+		}
+		input[type="number"]{
+			color: white;
+			background-color: transparent;
+			height: 25px;
+			width: 200px;
+			border-color: transparent;
+			border-bottom: 2px solid black;
+		
+		}
+		input[type="number"]{
+			outline: none;
+		}
+		input[type="text"]{
+			color: white;
+			background-color: transparent;
+			height: 25px;
+			width: 200px;
+			border-color: transparent;
+			border-bottom: 2px solid black;
+		
+		}
+		input[type="text"]{
+			outline: none;
+		}
+		input[type="tel"]{
+			color: white;
+			background-color: transparent;
+			height: 25px;
+			width: 200px;
+			border-color: transparent;
+			border-bottom: 2px solid black;
+		
+		}
+		input[type="tel"]{
+			outline: none;
+		}
+		input[type="Password"]{
+			color: white;
+			background-color: transparent;
+			height: 25px;
+			width: 200px;
+			border-color: transparent;
+			border-bottom: 2px solid black;
+			margin-bottom: 12px;
+			
+		}
+		input[type="Password"]{
+			outline: none;
+		}
+		lable{
+		font-weight: bold;
+		}
+		#b1{
+		    background-color: #e28743;
+			width: 90px;
+			height: 30px;
+			font-size: 20px;
+			font-family:sans-serif;
+			border-radius: 10px;
+		}
+		#b1:hover {
+		cursor: pointer;
+		background-color: white;
+		color: #e28743;
+}
